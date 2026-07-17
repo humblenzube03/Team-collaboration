@@ -5,62 +5,6 @@
   box-sizing: border-box;
 }
 
-.our-mission {
-  width: 100%;
-}
-
-.our-missione {
-  display: flex;
-  width: 100%;
-  /* justify-content: space-between; */
-}
-
-.our-mission1 {
-  width: 60%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  /* margin-left: 250px;
-  padding-left: 100px; */
-  /* gap: 50px;
-  padding-right: 30px; */
-  gap: 60px;
-  padding-left: 250px;
-}
-
-.our-mission1 button {
-  height: 60px;
-  width: 150px;
-  font-size: 20px;
-  border: 3px solid #f60;
-  background-color: white;
-  font-weight: bold;
-  color: #f60;
-}
-
-.our-mission2 {
-  width: 40%;
-}
-
-.our-mission2 img {
-  width: 100%;
-  object-fit: cover;
-}
-
-.our-mission1 span {
-  color: #f60;
-  font-size: 25px;
-  font-weight: 400;
-}
-
-.our-mission1 p {
-  font-size: 30px;
-  color: #000;
-  line-height: 1.5;
-  font-weight: 100;
-  letter-spacing: 1.5px;
-}
-
 
 /*Footer Section*/
 .footer-section{

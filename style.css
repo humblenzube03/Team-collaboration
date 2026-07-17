@@ -139,6 +139,63 @@
 .estimate-cost strong {
     color: #ff8c00;
     font-size: 22px;
+.flex{
+    margin-top: 200px;
+}
+.grid {
+    display: flex;
+    gap: 20px;
+}
+
+.team-card{
+    padding: 0 15px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.team-card h2 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-bottom: 20px;
+}
+
+.team-card p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.team-card img {
+    width: 50%;
+    height: 70px;
+    margin: 0 20px 20px 15px;
+}
+
+.team-socials {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.team-socials a {
+    width: 30px;
+    height: 30px;
+    display: inline-flex;
+    border: solid #777;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
+
+.team-socials img {
+    width: 14px;
+    height: 14px;
+    object-fit: contain;
+    margin: 0;
+}
+
+.team-socials a:hover {
+    background-color:#f50000;
+}
 .our-mission {
   width: 100%;
 }
@@ -146,7 +203,7 @@
 .our-missione {
   display: flex;
   width: 100%;
-  /* justify-content: space-between; */
+  justify-content: space-between;
 }
 
 .our-mission1 {

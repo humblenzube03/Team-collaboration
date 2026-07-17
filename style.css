@@ -46,7 +46,7 @@
     width: 30px;
     height: 30px;
     display: inline-flex;
-    border: solid #ff6600;
+    border: solid #777;
     align-items: center;
     justify-content: center;
     border-radius: 50%;
@@ -57,4 +57,8 @@
     height: 14px;
     object-fit: contain;
     margin: 0;
+}
+
+.team-socials a:hover {
+    background-color:#f50000;
 }

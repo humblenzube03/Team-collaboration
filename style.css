@@ -216,6 +216,7 @@
   display: flex;
   width: 100%;
   justify-content: space-between;
+  text-decoration: none;
 }
 
 .our-mission1 {
@@ -254,6 +255,7 @@
   color: #f60;
   font-size: 25px;
   font-weight: 400;
+  text-decoration: none;
 }
 .our-mission1 p {
   font-size: 30px;

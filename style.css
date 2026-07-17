@@ -5,7 +5,6 @@
   box-sizing: border-box;
 }
 
-<<<<<<< HEAD
 .flex{
     margin-top: 200px;
 }
@@ -63,7 +62,6 @@
 .team-socials a:hover {
     background-color:#f50000;
 }
-=======
 .our-mission {
   width: 100%;
 }
@@ -119,4 +117,3 @@
   font-weight: 100;
   letter-spacing: 1.5px;
 }
->>>>>>> dfcf13885b21921dcd76dec80e7691496e389f81
